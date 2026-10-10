@@ -19,7 +19,7 @@ I'm a passionate developer who loves building amazing projects and solving real-
 - 🌱 I'm currently learning **advanced web technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, Web Development, or anything tech!**
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: **patilsamarth848@gmail.com**
 - ⚡ Fun fact: **I love turning ideas into code!**
 
 ---
@@ -65,7 +65,7 @@ I'm a passionate developer who loves building amazing projects and solving real-
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samarth7676)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Samarth7676)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patilsamarth848@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
   
 </div>
